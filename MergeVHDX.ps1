@@ -7,7 +7,7 @@
 # FolderPath is the location of the main VHDX and AVHDX files
 $FolderPath = "PATH TO FILES HERE"
 # ActiveVM is the first few letters of the VHDX name INCLUDING UNDERSCORE
-$ActiveVM = "ESS-RDS01_"
+$ActiveVM = "VMNAMEHERE_"
 $LoopCtr = 0
 # PrefixLen is the length of ActiveVM variable (character length INCLUDING UNDERSCORE)
 $PrefixLen = 10
